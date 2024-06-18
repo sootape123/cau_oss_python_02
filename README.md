@@ -6,3 +6,6 @@ Homework#2, simple calculator 구현
 
 ## 2024-05-21
 Homework#3, module 구현
+
+## 2024-06-18
+GitLens 설치 및 GIT GUI 테스트
